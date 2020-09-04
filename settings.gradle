@@ -1,1 +1,2 @@
-include ':app', ':javalib', ':myandroidlibrary'
+include ':JavaLib'
+rootProject.name = "FAndradeTI.JavaLib"
